@@ -1,0 +1,19 @@
+type,name,latitude,longitude,note
+fire,Jeongja 119 Safety Center,37.297102404173,126.99588968039,Suwon Fire Station / Jeongja 119
+fire,Iui 119 Safety Center,37.2866697,127.0554484,Iui 119
+fire,Yeongtong 119 Safety Center,37.2532202,127.0688299,Yeongtong 119
+fire,Suwon Nambu Fire Station,37.254900187252,127.03623980132,Suwon Nambu Fire Station
+fire,Jiman 119 Safety Center,37.2843119556419,127.028680131585,Jiman 119
+fire,Seodun 119 Safety Center,37.269036049488,126.99342246015,Seodun 119
+fire,Gosaek 119 Safety Center,37.253226497267,126.97525769598,Gosaek 119
+fire,Homaesil 119 Safety Center,37.2732884,126.9519777,Homaesil 119
+fire,Maesan 119 Safety Center,37.27049849,127.0106742,Maesan 119 (address coordinate)
+police,Suwon Jangan Police Station,37.297937179097,126.996429746405,Jangan Police
+police,Suwon Yeongtong Police Station,37.2721426,127.0544247,Yeongtong Police
+police,Suwon Gwonseon Police Station,37.2587574,126.9722699,Gwonseon Police
+hospital,Ajou University Hospital,37.27813523429,127.04767022708,Emergency center
+hospital,St. Vincent's Hospital,37.276885457419,127.02675325324,Emergency center
+hospital,Dongsuwon Hospital,37.2781980689826,127.034334489201,Emergency center
+hospital,Hwahong Hospital,37.2601268,126.9639084,Emergency center
+hospital,Wills Memorial Hospital,37.2653228849711,127.025544343702,Emergency institution
+hospital,Gyeonggi Medical Center Suwon Hospital,37.292106969111,126.99726008713,Emergency institution
